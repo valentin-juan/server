@@ -1,4 +1,4 @@
-package br.com.alurafood.server;
+package br.com.valentin.server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
